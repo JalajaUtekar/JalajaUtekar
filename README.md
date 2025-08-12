@@ -1,4 +1,4 @@
-Hello, My I am Jalaja Utekar 👋 
+Hello, I am Jalaja Utekar 👋 
 - I am currently pursuing a B.Tech (Bachelor of Technology) in Computer Engineering at MMCOE Pune, as well as a B.S (Bachelor of Science) in Data Science and Applications at IIT Madras.
 - With a solid foundation in programming languages such as C, C++, VB.NET, Python, and HTML since high school, I also have a keen interest in microprocessors, having studied the Intel 8085 thoroughly as well as the fundamentals of 8086.
 - I am proficient in productivity with school, regional as well as national level accolades in the MS Office Suite. This fueled my drive to excel in the tech field and explore new horizons.
